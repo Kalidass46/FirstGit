@@ -6,5 +6,9 @@ public class Hit1 {
 		
 		String s="Udhaya has successsfully done";
 		System.out.println(s);
-	}
+		
+		int a=10;
+		System.out.println(a);
+		
+		}
 }
